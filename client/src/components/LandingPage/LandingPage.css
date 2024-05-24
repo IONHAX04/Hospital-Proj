@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar-brand img{
+    width: 30px;
+    height: 30px;
+}
+
+nav{
+	width: 100%;
+	position: sticky !important;
+	left: 0;
+	top: 0;
+	box-shadow: 0px 7px 8px rgba(0, 0, 0, 0.5);
+	z-index: 10;
+}
+
+.navbar-brand{
+    font-size: 22px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+	font-weight: 600;
+}
+
+
+.nav-link{
+	color: white !important;
+	border-bottom: 1px solid white transparent;
+}
+
+.nav-link:hover{
+	border-bottom: 1px solid white;
+}
+
+.navbar-search{
+	justify-content: center;
+	align-items: center;
+}
+
+.logo{
+	padding-left: 5px;
+	padding-right: 5px;
+	height: 50px;
+	width: 50px;
+	align-items: center;
+}
+
+
+
+
+.navbarBrand{
+	color: white;
+}
+
+
+.bi{
+	margin: 10px;
+}
+
+
+
+.navbarBrand a{
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+
+
+
+/* =================================================== */
+
+.mainPageContent {
+    padding:    5%;
+	margin-top: -20px;
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainPageContent h2 {
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.mainPageContent h2 span{
+	font-size: 25px;
+	color: red;
+}
+.plans h2{
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+.mainPageContent h6 {
+    font-size: 20px;
+	padding-top: 20px;
+	color: rgba(0, 0, 0, 0.562);
+}
+
+
+.row{
+    justify-content: space-around;
+    padding: 10px;
+    /* margin: 20px; */
+}
+
+.plans, .saveTime{
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+	margin: 0;
+}
+
+.card{
+    border: none
+}
+
+.mainPageContent img{
+	width: 500px;
+	align-items: center;
+	justify-content: center;
+	border-top-right-radius: 110px;
+	border-top-left-radius: 240px;
+	border-bottom-right-radius: 180px;
+	border-bottom-left-radius: 120px;
+}
+
+
+.landingPageContents{
+	margin: 0;
+	margin-top: -15px;
+	padding: 0;
+	/* background: rgb(240, 248, 255); */
+	background: linear-gradient(90deg,#a4c1ff,#fbfcff);
+}
+
+
+.introPgContents{
+	height: 15rem;
+	align-items: center;
+	justify-content: center;
+	width: 13rem;
+}
+
+
+
+.startPage{
+	margin: 0;
+}
+
+
+
+.faq{
+	align-items: center;
+	justify-content: center;
+	text-align: justify;
+}
+
+
+.accordion button {
+    margin: 0;
+}
+
+
+
+.why{
+	padding: 30px;
+	/* background: linear-gradient(90deg,#a4c1ff,#fbfcff); */
+}
+
+.features{
+	background: linear-gradient(90deg,#a4c1ff,#fbfcff);	
+}
+
+.contact .row{
+	margin: 0;
+}

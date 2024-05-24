@@ -1,0 +1,34 @@
+.title {
+    font-weight: bolder;
+}
+
+.modal {
+    background-color: rgba(0, 0, 0, 0.693);
+}
+
+.body h4 {
+    font-size: 18px;
+}
+
+.body h5 {
+    font-size: 20px;
+    font-weight: bolder;
+    margin: 20px;
+}
+
+.articles {
+    padding: 0px 140px;
+}
+
+.recentArticles {
+    margin-top: -10px;
+    padding-top: 50px;
+    background: linear-gradient(90deg, #a4c1ff, #fbfcff);
+    text-align: center;
+}
+
+.recentArticles h3{
+    font-size: 30px;
+    padding-bottom: 30px;
+    font-weight: bolder;
+}

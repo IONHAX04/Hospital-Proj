@@ -1,0 +1,57 @@
+.Main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardsMain{
+    justify-content: space-evenly;
+}
+.cardsCol{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+.cardsGoals{
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.cardsGoals p{
+    text-align: justify;
+    font-size: 15px;
+}
+
+.contentsWLoss ul li{
+    list-style: none;
+}
+
+.goalsTable{
+    table-layout: fixed;
+    width: 100%;
+}
+
+.goalsTable th, .goalsTable td{
+    width: 200px;
+    word-wrap: break-word;
+    vertical-align: middle;
+}
+
+.contentsWLoss {
+    overflow-x: auto;
+}
+
+.weightLossContentsBoth{
+    text-align: justify;
+    padding: 10px;
+}
+
+.weightLossContentsBoth h2, h4{
+    text-align: center;
+}

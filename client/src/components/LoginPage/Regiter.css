@@ -1,0 +1,35 @@
+.reg{
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;    
+    padding: 100px 20px;
+    border-radius: 15px;
+    background: white;
+}
+
+.registerForm{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    /* height: 100; */
+    background: linear-gradient(90deg,#a4c1ff,#fbfcff);
+}
+
+.reg input{
+    margin: 10px;
+    padding: 5px;
+}
+
+.loginForm{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    height: 100vh;
+    background: linear-gradient(90deg,#a4c1ff,#fbfcff);
+}

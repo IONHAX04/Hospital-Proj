@@ -1,0 +1,11 @@
+.goalsContents{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.image{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,35 @@
+.healthRecMgmt h2{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.healthRecMgmt h4{
+    padding: 10px 40px;
+}
+
+.forms{
+    border: 1px solid black;
+    margin: 40px 200px;
+    border-radius: 20px;
+    padding: 30px 100px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.display{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+
+.display tbody tr td{
+    min-width: 160px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 7px;
+}

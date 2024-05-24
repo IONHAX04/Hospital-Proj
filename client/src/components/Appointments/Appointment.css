@@ -1,0 +1,16 @@
+.appoitments table thead tr th,
+.appoitments table tbody tr td{
+    min-width: 160px;
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 7px;
+}
+
+
+.appoitments{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}

@@ -1,0 +1,38 @@
+.homePageContents{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    text-align: center;
+}
+
+.carousel{
+    height: 80vh;
+    width: 100%;
+}
+.carousel img{
+    height: 80vh;
+    width: 100%;
+
+}
+
+
+.contentss{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons{
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.feature{
+    border: 1px solid rgba(0, 0, 0, 0.159);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
